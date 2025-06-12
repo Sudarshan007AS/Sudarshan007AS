@@ -70,7 +70,7 @@ Hi, I'm Sudarshan A S!
     <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white">
 </p>
 
-<h2 id="-github-stats"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"> GitHub Stats</h2>
+<h2 id="-github-stats">GitHub Stats</h2>
 <br>
 <summary><b>⚡ My Stats</b></summary>
 <br>
@@ -89,13 +89,13 @@ Hi, I'm Sudarshan A S!
   <tr>
   <td width="50%" valign="top">
 <h2 id="lets-work-on-your-project-together">Let’s Work on Your Project Together!</h2>
-<p>If you’re working on a project involving frontend web development or cybersecurity, feel free to <a href="mailto:sudarshan007as@gmail.com">reach out via email</a> or connect on <a href="https://www.linkedin.com/in/sudarshanas/">LinkedIn</a>.</p>
+<p>If you’re working on a project involving frontend web development or cybersecurity, feel free to reach out via Linkedin.</p>
   </td>
   <td width="50%" valign="top">
 <h2 id="its-not-perfect-isnt-it">It’s not perfect, is it?</h2>
-<p><strong><a href="https://github.com/Sudarshan007AS"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a></strong></p>
-<p>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”  
+<p>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”<br>
 – Elon Musk</p>
+	<br>
   </td>
   </tr>
 </table>
