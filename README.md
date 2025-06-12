@@ -134,8 +134,8 @@ I love turning simple ideas into interactive, meaningful web apps.
     <img alt="Feedback Welcome" src="https://img.shields.io/badge/Feedback-Welcome-brightgreen?style=flat-square&logo=github">
   </a>
 </strong></p>
-<p><em>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”</em><br>
-— <strong>Elon Musk</strong></p>
+<p><em>“We all need people who will give us feedback.<br>That’s how we improve.”</em><br>
+<strong>— Bill Gates</strong></p>
 	<br>
   </td>
   </tr>
