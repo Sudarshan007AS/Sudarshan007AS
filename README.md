@@ -102,14 +102,30 @@ Hi, I'm Sudarshan A S!
 <br>
 <table>
   <tr>
+<td width="50%" valign="top">
+<h2 id="lets-work-on-your-project-together">🤝 Let’s Work on Your Project Together!</h2>
+  <p>
+    Whether you're developing a <strong>frontend interface</strong> or exploring a <strong>cybersecurity or ML-based tool</strong>, I’m excited to collaborate and contribute!
+  </p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/sudarshanas/" target="_blank">
+      <img src="https://img.shields.io/badge/Hire%20Me-on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire Me">
+    </a>
+  </p>
+</td>
+
+  </p>
+</td>
+
   <td width="50%" valign="top">
-<h2 id="lets-work-on-your-project-together">Let’s Work on Your Project Together!</h2>
-<p>If you’re working on a project involving frontend web development or cybersecurity, feel free to reach out via Linkedin.</p>
-  </td>
-  <td width="50%" valign="top">
-<h2 id="its-not-perfect-isnt-it">It’s not perfect, is it?</h2>
-<p>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”<br>
-– Elon Musk</p>
+<h2 id="its-not-perfect-isnt-it">🤔 It’s not perfect, is it?</h2>
+<p><strong>
+  <a href="https://github.com/Sudarshan007AS">
+    <img alt="Feedback Welcome" src="https://img.shields.io/badge/Feedback-Welcome-brightgreen?style=flat-square&logo=github">
+  </a>
+</strong></p>
+<p><em>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”</em><br>
+— <strong>Elon Musk</strong></p>
 	<br>
   </td>
   </tr>
