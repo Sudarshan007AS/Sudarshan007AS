@@ -26,20 +26,23 @@ Hi, I'm Sudarshan A S!
 <p>
 💻 <strong>I'm Sudarshan A S</strong>, a final-year Computer Science Engineering student at <strong>Malnad College of Engineering</strong>.<br><br>
 
-📚 I've completed multiple internships:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Codonacci</strong> – Python Full Stack Development (Flask, APIs, frontend/backend integration)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Adverk Technologies</strong> – Cybersecurity & Ethical Hacking (vulnerability assessment, penetration testing)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Intrainz Innovation</strong> – Cybersecurity intern (risk analysis, network monitoring)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• <strong>MCE</strong> – Python Programming intern (fundamentals, algorithmic thinking)<br><br>
+📚 I've gained practical experience across multiple internships, where I:
 
-🛠️ I have hands-on experience building full-stack web apps using <strong>Python, Flask, SQLite, HTML, CSS, JS</strong> and creating UI prototypes with <strong>Figma</strong>.<br><br>
+- Developed full-stack web applications using Python (Flask), integrating frontend UI with backend APIs and databases
+- Implemented core cybersecurity practices including vulnerability assessment, penetration testing, and basic ethical hacking
+- Explored network security techniques such as LAN device scanning, traffic analysis, and basic risk mitigation
+- Strengthened programming fundamentals by working on structured logic, algorithmic problem-solving, and modular coding
+- I have hands-on experience building full-stack web apps using <strong>Python, Flask, SQLite, HTML, CSS, JS</strong> and creating UI prototypes with <strong>Figma</strong>.<br><br>
 
-🔐 I've worked on real-world cybersecurity projects like:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• <strong>PixelVault</strong> – A web-based Steganography Tool that hides messages in images using LSB.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Password Strength Analyzer</strong> – Entropy-based evaluator with MFA readiness and real-time feedback.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Internal Network Scanner</strong> – Python-based ARP scanner for discovering active devices in LAN.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Smart Advertising System (ML)</strong> – An ad recommendation engine that adapts to user preferences using machine learning.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Library Chat Bot</strong> – A Flask-powered chatbot app with Admin & Student roles, Book borrowing system, SQLite backend, and modern UI.<br><br>
+🚀 I'm a passionate Computer Science student exploring the intersections of:
+
+- Full-stack web development using Flask and React
+- UI/UX design for clean and usable digital interfaces
+- Cybersecurity principles through real-world practice
+- Machine learning applied to personalization and automation
+
+I love turning simple ideas into interactive, meaningful web apps.
+<br>
 
 📄 Check out my <a href="https://www.linkedin.com/in/sudarshanas/">LinkedIn profile</a> to know more about my work.
 </p>
@@ -97,6 +100,10 @@ Hi, I'm Sudarshan A S!
     <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=canva&logoColor=white">
     <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white">
     <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?logo=google-colab&logoColor=white">
+</p>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan007AS&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 <br>
