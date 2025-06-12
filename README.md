@@ -15,24 +15,40 @@ Hi, I'm Sudarshan A S!
 <br>
 <p align="center">
 	<a href="https://github.com/Sudarshan007AS">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Final+Year+CSE+Student;Python+Full+Stack+Developer;Cybersecurity+Intern;UI%2FUX+Design+Learner;Always+curious+to+build+secure+and+useful+apps&center=true&width=420&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Python+Developer;Cybersecurity+Enthusiast;Final+Year+CSE+Student&center=true&width=440&height=45">
 	</a>
 </p>
-<hr>
-<pre>💻 I'm a final-year Computer Science student at Malnad College of Engineering, Hassan
-📚 I have interned at Codonacci, Adverk Technologies, Intrainz Innovation, and MCE
-🛠️ Hands-on experience with Flask, SQLite, HTML/CSS/JS, and ethical hacking tools
-🔐 I’ve contributed to projects involving steganography, password analysis, and chatbot UIs
-🎨 I enjoy crafting simple, user-friendly UIs and secure backend systems
-🌱 Currently learning React.js, Figma UI/UX design, and offensive security tools
-🤔 Open to: <b>Internship</b> or <b>Job opportunity</b> in Web Development or Cybersecurity
-📄 This is <a href="https://www.linkedin.com/in/sudarshanas/">my LinkedIn profile</a> to learn more about me
-</pre>
+
 <hr>
 
+<h3 align="center">✨ About Me</h3>
+
+<p>
+💻 <strong>I'm Sudarshan A S</strong>, a final-year Computer Science Engineering student at <strong>Malnad College of Engineering</strong>.<br><br>
+
+📚 I've completed multiple internships:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Codonacci</strong> – Python Full Stack Development (Flask, APIs, frontend/backend integration)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Adverk Technologies</strong> – Cybersecurity & Ethical Hacking (vulnerability assessment, penetration testing)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Intrainz Innovation</strong> – Cybersecurity intern (risk analysis, network monitoring)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• <strong>MCE</strong> – Python Programming intern (fundamentals, algorithmic thinking)<br><br>
+
+🛠️ I have hands-on experience building full-stack web apps using <strong>Python, Flask, SQLite, HTML, CSS, JS</strong> and creating UI prototypes with <strong>Figma</strong>.<br><br>
+
+🔐 I've worked on real-world cybersecurity projects like:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• <strong>PixelVault</strong> – A web-based Steganography Tool that hides messages in images using LSB.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Password Strength Analyzer</strong> – Entropy-based evaluator with MFA readiness and real-time feedback.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Internal Network Scanner</strong> – Python-based ARP scanner for discovering active devices in LAN.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Smart Advertising System (ML)</strong> – An ad recommendation engine that adapts to user preferences using machine learning.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Library Chat Bot</strong> – A Flask-powered chatbot app with Admin & Student roles, Book borrowing system, SQLite backend, and modern UI.<br><br>
+
+📄 Check out my <a href="https://www.linkedin.com/in/sudarshanas/">LinkedIn profile</a> to know more about my work.
+</p>
+
+<hr>
+
+
+
 <h2 id="-connect-with-me">🤝 Connect with me</h2>
-<p align="center">
-	<a href="mailto:sudarshan007as@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"></a>
 	<a href="https://www.linkedin.com/in/sudarshanas/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 	<a href="https://github.com/Sudarshan007AS"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
@@ -53,11 +69,23 @@ Hi, I'm Sudarshan A S!
     <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=61DAFB">
+    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white">
+    <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white">
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white">
 </p>
 
 <h3 id="️-databases-and-cloud-hosting">🗄️ Databases</h3>
 <p>
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%23003B57.svg?logo=sqlite&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
+</p>
+
+<h3 id="-cybersecurity-tools">🔐 Cybersecurity Tools & Concepts</h3>
+<p>
+    <img alt="Penetration Testing" src="https://img.shields.io/badge/Penetration%20Testing-%23000000.svg?logo=verizon&logoColor=white">
+    <img alt="Steganography" src="https://img.shields.io/badge/Steganography-%230072B1.svg?logo=gnupg&logoColor=white">
+    <img alt="Network Monitoring" src="https://img.shields.io/badge/Network%20Scanning-%233498DB.svg?logo=wifi&logoColor=white">
+    <img alt="Cryptography" src="https://img.shields.io/badge/Cryptography-%236C3483.svg?logo=gnupg&logoColor=white">
 </p>
 
 <h3 id="-software-and-tools">💻 Software and Tools</h3>
@@ -68,22 +96,9 @@ Hi, I'm Sudarshan A S!
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
     <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=canva&logoColor=white">
     <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white">
+    <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?logo=google-colab&logoColor=white">
 </p>
 
-<h2 id="-github-stats">GitHub Stats</h2>
-<br>
-<summary><b>⚡ My Stats</b></summary>
-<br>
-<p align="center">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Sudarshan007AS&show_icons=true&theme=tokyonight">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarshan007AS&theme=tokyonight">
-</p>
-<br>
-<summary><b>⚡ Top Languages</b></summary>
-<br>
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan007AS&langs_count=8&layout=compact&theme=tokyonight">
-</p>
 <br>
 <table>
   <tr>
