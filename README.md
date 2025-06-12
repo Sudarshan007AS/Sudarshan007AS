@@ -89,7 +89,7 @@ Hi, I'm Sudarshan A S!
   <tr>
   <td width="50%" valign="top">
 <h2 id="lets-work-on-your-project-together">Let’s Work on Your Project Together!</h2>
-<p>If you’re working on a project involving frontend or backend web dev, or cybersecurity tools, feel free to <a href="mailto:sudarshan007as@gmail.com">reach out via email</a> or connect on <a href="https://www.linkedin.com/in/sudarshanas/">LinkedIn</a>.</p>
+<p>If you’re working on a project involving frontend web development or cybersecurity, feel free to <a href="mailto:sudarshan007as@gmail.com">reach out via email</a> or connect on <a href="https://www.linkedin.com/in/sudarshanas/">LinkedIn</a>.</p>
   </td>
   <td width="50%" valign="top">
 <h2 id="its-not-perfect-isnt-it">It’s not perfect, is it?</h2>
@@ -99,6 +99,3 @@ Hi, I'm Sudarshan A S!
   </td>
   </tr>
 </table>
-<hr>
-<p><a href="https://github.com/Sudarshan007AS">Sudarshan A S</a></p>
-<p>Last Edited on: 12/06/2025</p>
