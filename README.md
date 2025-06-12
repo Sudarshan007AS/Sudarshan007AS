@@ -119,8 +119,8 @@ I love turning simple ideas into interactive, meaningful web apps.
   </p>
   <p align="center">
     <a href="https://www.linkedin.com/in/sudarshanas/" target="_blank">
-      <img src="https://img.shields.io/badge/Hire%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire Me">
-    </a>
+  <img src="https://img.shields.io/badge/Contact%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact Me">
+</a>
   </p>
 </td>
 
