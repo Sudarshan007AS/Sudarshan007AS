@@ -107,9 +107,12 @@ Hi, I'm Sudarshan A S!
   <p>
     Whether you're developing a <strong>frontend interface</strong> or exploring a <strong>cybersecurity or ML-based tool</strong>, I’m excited to collaborate and contribute!
   </p>
+<p>
+    📬 Feel free to reach out via Linkedin!
+  </p>
   <p align="center">
     <a href="https://www.linkedin.com/in/sudarshanas/" target="_blank">
-      <img src="https://img.shields.io/badge/Hire%20Me-on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire Me">
+      <img src="https://img.shields.io/badge/Hire%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire Me">
     </a>
   </p>
 </td>
