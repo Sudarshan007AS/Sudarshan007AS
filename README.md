@@ -111,9 +111,9 @@ I love turning simple ideas into interactive, meaningful web apps.
 <table>
   <tr>
 <td width="50%" valign="top">
-<h2 id="lets-work-on-your-project-together">🤝 Let’s Work on Your Project Together!</h2>
+<h2 id="lets-work-on-your-project-together">🤝 Let’s bring your vision to life, together!</h2>
   <p>
-    Whether you're developing a <strong>frontend interface</strong> or exploring a <strong>cybersecurity or ML-based tool</strong>, I’m excited to collaborate and contribute!
+    From crafting sleek frontend interfaces to diving into the worlds of cybersecurity and AI/ML, I’m all in to collaborate and create something impactful!
   </p>
 <p>
     📬 Feel free to reach out via Linkedin!
