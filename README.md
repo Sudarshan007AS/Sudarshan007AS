@@ -8,10 +8,10 @@ Hi, I'm Sudarshan A S!
 	<a href="https://github.com/Sudarshan007AS">
 		<img src="https://komarev.com/ghpvc/?username=Sudarshan007AS&label=Profile%20views&color=0e75b6&style=flat" alt="Sudarshan007AS">
 	</a>
-	<a href="https://github.com/Sudarshan007AS">
+<!-- 	<a href="https://github.com/Sudarshan007AS">
 		<img src="https://img.shields.io/github/followers/Sudarshan007AS?label=Followers" alt="Sudarshan007AS">
 	</a>
-</p>
+</p> -->
 <br>
 <p align="center">
 	<a href="https://github.com/Sudarshan007AS">
