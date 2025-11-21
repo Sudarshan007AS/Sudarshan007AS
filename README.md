@@ -15,7 +15,7 @@ Hi, I'm Sudarshan A S!
 <br>
 <p align="center">
 	<a href="https://github.com/Sudarshan007AS">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Python+Developer;Cybersecurity+Enthusiast;Final+Year+CSE+Student&center=true&width=440&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Web+Developer;Python+Developer;Cybersecurity+Enthusiast;CSE+Graduate&center=true&width=440&height=45">
 	</a>
 </p>
 
@@ -24,7 +24,7 @@ Hi, I'm Sudarshan A S!
 <h3 align="center">✨ About Me</h3>
 
 <p>
-💻 <strong>I'm Sudarshan A S</strong>, a final-year Computer Science Engineering student at <strong>Malnad College of Engineering</strong>.<br><br>
+💻 <strong>I'm Sudarshan A S</strong>, a Computer Science Engineering Graduate from <strong>Malnad College of Engineering</strong>.<br><br>
 
 📚 I've gained practical experience across multiple internships, where I:
 
