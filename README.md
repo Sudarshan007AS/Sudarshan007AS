@@ -15,7 +15,7 @@ Hi, I'm Sudarshan A S!
 <br>
 <p align="center">
 	<a href="https://github.com/Sudarshan007AS">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Python+Developer;Cybersecurity+Enthusiast;CSE+Graduate&center=true&width=440&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Python+Developer;Cybersecurity+Enthusiast;CSE+Graduate&center=true&width=440&height=45">
 	</a>
 </p>
 
