@@ -103,7 +103,7 @@ I love turning simple ideas into interactive, meaningful web apps.
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan007AS&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan007AS&layout=compact&theme=tokyonight&count_private=true&langs_count=10&hide_progress=false" />
 </p>
 
 
