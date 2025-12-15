@@ -105,9 +105,6 @@ I love turning simple ideas into interactive, meaningful web apps.
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Sudarshan007AS&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudarshan007AS&theme=tokyonight" />
-</p>
 
 
 
